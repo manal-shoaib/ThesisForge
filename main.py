@@ -16,7 +16,7 @@ if api_key:
         # Send message to Groq's model
         chat_completion = client.chat.completions.create(
             messages=[{"role": "user", "content": user_input}],
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-20b",
         )
         
         # Display the response
