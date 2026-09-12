@@ -13,3 +13,9 @@ Make sure you have Python installed, then follow these steps to set up the proje
 1. Clone the repository to your local machine:
    ```bash
    git clone [https://github.com/manal-shoaib/ThesisForge.git](https://github.com/manal-shoaib/ThesisForge.git)
+## Contributors
+* Hannan Malik
+* Dr.Ummara Ahsan
+* Manal Shoaib
+* Sohaib Bin Altaf Khattak
+* Musanif Khan
